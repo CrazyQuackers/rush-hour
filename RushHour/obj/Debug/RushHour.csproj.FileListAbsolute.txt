@@ -1,0 +1,11 @@
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\RushHour\RushHour\bin\Debug\RushHour.exe.config
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\RushHour\RushHour\bin\Debug\RushHour.exe
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\RushHour\RushHour\bin\Debug\RushHour.pdb
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\RushHour\RushHour\obj\Debug\RushHour.csproj.AssemblyReference.cache
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\RushHour\RushHour\obj\Debug\RushHour.csproj.SuggestedBindingRedirects.cache
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\RushHour\RushHour\obj\Debug\RushHour.Form1.resources
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\RushHour\RushHour\obj\Debug\RushHour.Properties.Resources.resources
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\RushHour\RushHour\obj\Debug\RushHour.csproj.GenerateResource.cache
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\RushHour\RushHour\obj\Debug\RushHour.csproj.CoreCompileInputs.cache
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\RushHour\RushHour\obj\Debug\RushHour.exe
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\RushHour\RushHour\obj\Debug\RushHour.pdb
